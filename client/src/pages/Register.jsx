@@ -114,7 +114,7 @@ function Register() {
                     >
                         Cadastrar
                     </button>
-                    <span>Já possui uma conta? <Link to='/'>Entrar</Link></span>
+                    <span>Já possui uma conta? <Link to='/login'>Entrar</Link></span>
                 </form>
             </FormContainer>
             <ToastContainer />
